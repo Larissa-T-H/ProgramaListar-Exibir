@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\bin\Debug\WindowsForms-Imagem.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\bin\Debug\WindowsForms-Imagem.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\bin\Debug\WindowsForms-Imagem.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms-Imagem.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms-Imagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms_Imagem.Form1.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms_Imagem.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms-Imagem.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms-Imagem.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms-Imagem.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Imagem\obj\Debug\WindowsForms-Imagem.pdb
